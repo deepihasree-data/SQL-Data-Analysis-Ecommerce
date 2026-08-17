@@ -1,1 +1,9 @@
-
+customer_id,customer_name,email,city
+1,Arun Kumar,arun@gmail.com,Chennai
+2,Priya Sharma,priya@gmail.com,Coimbatore
+3,Rahul Singh,rahul@gmail.com,Bangalore
+4,Divya Raj,divya@gmail.com,Chennai
+5,Karthik Kumar,karthik@gmail.com,Madurai
+6,Sneha Patel,sneha@gmail.com,Bangalore
+7,Vijay Anand,vijay@gmail.com,Hyderabad
+8,Meena Devi,meena@gmail.com,Coimbatore
